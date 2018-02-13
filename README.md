@@ -3,6 +3,9 @@
 IoT教育向け投票システム  
 ボタンを押した回数に対応してフルカラーLEDの色が変わる．複数ノードから無線通信で色情報を一か所に収集し，視覚化する．色のコントロールを遠隔で行うことも可能．
 
+<a><img src="https://github.com/matzTada/IoTVoting/blob/master/image/working_client.jpg" alt="working_client" width=40%></a>
+<a><img src="https://github.com/matzTada/IoTVoting/blob/master/image/working_server.jpg" alt="working_server" width=40%></a>
+
 [IoTLiteracyEdu](https://github.com/matzTada/IoTLiteracyEdu)プロジェクトの後継版  
 技術面での変更点
 
@@ -46,8 +49,6 @@ IoT教育向け投票システム
 	* Python
 
 <a><img src="https://github.com/matzTada/IoTVoting/blob/master/image/system.png" alt="system" width=100%></a>  
-<a><img src="https://github.com/matzTada/IoTVoting/blob/master/image/working_client.jpg" alt="working_client" width=40%></a>
-<a><img src="https://github.com/matzTada/IoTVoting/blob/master/image/working_server.jpg" alt="working_server" width=40%></a>
 
 ## クライアントノード配線
 
