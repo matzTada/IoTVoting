@@ -81,11 +81,11 @@ IoT教育向け投票システム
 	2. ProcessingでUDP通信してみる
 	3. PythonとProcessingの間でUDP通信してみる
 3. サーバ側Controllerのテスト
-	1. ```/python/controller.py```を試す
+	1. ```python/controller.py```を試す
 	1. クライアント側からデータを受信できているか
 	2. 受信したデータをUDPで送信できているか
 3. サーバ側Visualizerのテスト
-	1. ```/processing/visualizer/visualizer.pdeと同じディレクトリのファイル```をProcessing IDEで開く
+	1. ```processing/visualizer/visualizer.pdeと同じディレクトリのファイル```をProcessing IDEで開く
 	2. UDPで受信できているか
 	3. 視覚化できているか
 4. クライアント側をコントロールできているか試す
